@@ -4,7 +4,7 @@ All the addresses should be written in the follow format, in both English and Si
 
 | English                               | Chinese              |
 | ------------------------------------- | -------------------- |
-| Name of recipient                     |                      |
+| `Name of recipient`                   |                      |
 | Room XXX, No XXX, Lane XXX, XXX Road, | XXX路XXX弄XXX号XXX室 |
 | XXX District,                         | XXX区                |
 | XXX City, XXX Province                | XXX省XXX市           |
